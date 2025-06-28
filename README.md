@@ -1,40 +1,36 @@
-# IntentEx Asset Class Definition
+# IntentEx — Asset Class Definition (Block Zero)
 
-**Status:** Public Release – Foundational Economic Doctrine  
-**Author:** Steven Alber  
-**Date:** June 2025  
-**Repository:** https://github.com/StevenAlber/intentex-asset-definition
+This repository contains the world’s first formal definitions of **intent as a sovereign economic asset class**. These foundational documents establish the ontological, legal, and economic infrastructure for the tokenization of human intent as a tradable unit within the emerging cognitive economy.
 
-## 🌐 Overview
+📘 **Document List**
 
-This repository contains the **world’s first formal definition of intent** as a sovereign asset class.  
-Structured through the IntentEx protocol, these documents establish the foundational legal, economic, and ontological basis for treating **verified human intent** as a licensable, cryptographically valid, post-material asset.
+1. **IntentEx_Definition_Sovereign_Asset_v1.0.pdf**  
+   → Ontological and philosophical definition of intent as sovereign signal  
+   → Author: Steven Alber · Version: 1.0 · Date: June 2025
 
-> Thought is no longer a metaphor. It is an asset.
+2. **IntentEx_Asset_Class_Definition_v1.0.pdf**  
+   → Structural and economic definition of the Intent Commitment as a financial instrument  
+   → Author: Steven Alber · Version: 1.0 · Date: June 2025
 
-## 📄 Documents Included
+🔐 **Document Integrity (SHA-256)**
 
-- [IntentEx_Asset_Class_Definition_v1.0.pdf](IntentEx_Asset_Class_Definition_v1.0.pdf)  
-  A full legal–economic architecture for treating intent as a tradable asset within tokenized markets.
+The integrity of these documents is verifiable using the SHA-256 cryptographic hash.  
+These hashes confirm authorship and immutability.
 
-- [IntentEx_Definition_Sovereign_Asset_v1.0.pdf](IntentEx_Definition_Sovereign_Asset_v1.0.pdf)  
-  A metaphysical, cognitive, and epistemic declaration of intent as a unit of sovereign agency.
+- `IntentEx_Definition_Sovereign_Asset_v1.0.pdf`  
+  `63A702E3560C7AE2B6A60AC53B4FAD7B891A6B9D51F4DE4C30415A5D2C1F44B4`
 
-## 🔍 Inside the Documents
+- `IntentEx_Asset_Class_Definition_v1.0.pdf`  
+  `E0199A4F9F595354435B6CBCE1DC5B9F41F3AE547632C5F19C4C302BFEBEC82C`
 
-- Ontological and legal basis for intent-as-asset  
-- Architecture of the Intent Commitment  
-- Token structure and ephemeral non-fungibility  
-- Real-time auction mechanics and liquidity model  
-- Path to financial substrate recognition
+🧠 **Intellectual Ownership**
 
-## 🧠 Why This Matters
+All concepts, definitions, and structures contained within these documents are the intellectual property of **Steven Alber** and the **IntentEx initiative**. Public use, citation, or replication must include proper attribution.
 
-Intent has never been recognized, licensed, or protected as an asset.  
-We now define it — structurally, verifiably, and sovereignly.
+For verification, publication, and legal reference — these documents are now part of the sovereign protocol infrastructure.
 
-## 📌 Licensing
+---
 
-This release is part of the **KRYONIS Strategic Doctrine**.  
-All intellectual property and conceptual origin is attributed to **Steven Alber** under sovereign authorship.  
-Redistribution permitted with attribution. Unauthorized commercial use prohibited.
+**Contact:** intentex.global@pm.me  
+**Community:** https://t.me/IntentEX  
+**Website:** https://intent.exchange
