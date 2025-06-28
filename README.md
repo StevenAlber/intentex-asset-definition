@@ -1,6 +1,6 @@
 # IntentEx Asset Class Definition
 
-**Status:** Public Release — Foundational Economic Doctrine  
+**Status:** Public Release – Foundational Economic Doctrine  
 **Author:** Steven Alber  
 **Date:** June 2025  
 **Repository:** https://github.com/StevenAlber/intentex-asset-definition
@@ -14,10 +14,10 @@ Structured through the IntentEx protocol, these documents establish the foundati
 
 ## 📄 Documents Included
 
-- **[IntentEx_Asset_Class_Definition_v1.0.pdf](IntentEx_Asset_Class_Definition_v1.0.pdf)**  
+- [IntentEx_Asset_Class_Definition_v1.0.pdf](IntentEx_Asset_Class_Definition_v1.0.pdf)  
   A full legal–economic architecture for treating intent as a tradable asset within tokenized markets.
 
-- **[IntentEx_Definition_Sovereign_Asset_v1.0.pdf](IntentEx_Definition_Sovereign_Asset_v1.0.pdf)**  
+- [IntentEx_Definition_Sovereign_Asset_v1.0.pdf](IntentEx_Definition_Sovereign_Asset_v1.0.pdf)  
   A metaphysical, cognitive, and epistemic declaration of intent as a unit of sovereign agency.
 
 ## 🔍 Inside the Documents
@@ -38,5 +38,3 @@ We now define it — structurally, verifiably, and sovereignly.
 This release is part of the **KRYONIS Strategic Doctrine**.  
 All intellectual property and conceptual origin is attributed to **Steven Alber** under sovereign authorship.  
 Redistribution permitted with attribution. Unauthorized commercial use prohibited.
-
----
