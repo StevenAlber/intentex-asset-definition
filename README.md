@@ -13,10 +13,10 @@ This repository contains the **world’s first formal definition of intent** as 
 
 ## 📄 Documents Included
 
-- **IntentEx_Asset_Class_Definition_v1.0.pdf**  
-  A full legal–economic architecture for treating intent as a tradable asset within tokenized markets.
+- [IntentEx_Asset_Class_Definition_v1.0.pdf](./IntentEx_Asset_Class_Definition_v1.0.pdf)  
+  A full legal-economic architecture for treating intent as a tradable asset within tokenized markets.
 
-- **IntentEx_Definition_Sovereign_Asset_v1.0.pdf**  
+- [IntentEx_Definition_Sovereign_Asset_v1.0.pdf](./IntentEx_Definition_Sovereign_Asset_v1.0.pdf)  
   A metaphysical, cognitive, and epistemic declaration of intent as a unit of sovereign agency.
 
 ## 🔍 Inside the Documents
